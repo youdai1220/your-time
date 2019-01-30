@@ -1,0 +1,30 @@
+body {
+    background-color: greenyellow;
+    color: white;
+    width: 1100px;
+    margin-right: auto;
+    margin-left : auto;
+}
+button {
+    padding: 5px 20px;
+    background-color: white;
+    border-style: none;
+}
+input {
+    height: 20px;
+}
+p.attention{
+ color: red
+}
+h1{
+    color:red
+}
+h2{
+    color:green;
+    font-family: 'Comic Sans';
+}
+#result-area,#result-area2{
+    color:black;
+    font-family:'Century Gothic','游ゴシック';
+    font-size: 125%;
+}
